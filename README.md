@@ -55,12 +55,6 @@ python -m notebook TTS.ipynb
 jupyter notebook TTS.ipynb
 ```
 
-Si tu proyecto tiene un script de entrada (por ejemplo `main.py`), ejecuta:
-
-```bash
-python main.py
-```
-
 ## Problemas comunes
 - Si falta alguna librería, revisa el contenido de `Requirements.txt` y reinstala.
 - Si hay errores de versión de Python, asegúrate de usar Python 3.10.x.
