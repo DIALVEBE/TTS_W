@@ -1,10 +1,9 @@
 # Proyecto TTS
 
-Instructivo rápido para preparar el entorno, instalar dependencias y subir el proyecto a GitHub.
+Instructivo rápido para preparar el entorno, instalar dependencias.
 
 ## Requisitos
 - Python 3.10.x instalado
-- Git instalado
 
 ## Pasos
 
